@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @olkorol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Welcome to olkorol GitHub profile!**
+
+- 👋 Hi, I’m Olesya Korolenko
+- 👀 Bioinformatics, Data Scientist, Data Engineer, Biotechnologist
+- 🌱 BSc in Biotechnology, Moscow Polytechnic University'24.
+- 🧬 MSc in Data Analysis in Biology and Medicine, Faculty of Computer Science, HSE University'26
+- 📝 I regularly write posts in [personal blog](t.me/olkorolenko) 
+- 📫 You can reach me at olkoroltkd@gmail.com, or [t.me/olkoroltkd](https://t.me/olkoroltkd)
+- 📄 This is my up-to-date CV
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 
 <!---
 olkorol/olkorol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
