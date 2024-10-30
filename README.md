@@ -1,6 +1,5 @@
 # **Welcome to olkorol GitHub profile!** 
 
----
 
 - 👋 Hi, I’m Olesya Korolenko
 - 👀 Bioinformatics, Data Scientist, Data Engineer, Biophysicist, Biotechnologist
